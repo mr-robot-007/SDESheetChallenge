@@ -12,7 +12,7 @@
 # Precompiled Headers
 *.gch
 *.pch
-*/.cph
+*/.cph/
 
 # Compiled Dynamic libraries
 *.so
